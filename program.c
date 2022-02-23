@@ -18,4 +18,5 @@ int main()
     printf("Yes");
     else 
     printf("No");
+    return 0;
 }
